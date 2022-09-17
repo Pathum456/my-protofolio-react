@@ -1,0 +1,92 @@
+.resume-container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  background: white;
+  top: 220%;
+}
+.resume-header {
+  justify-content: center;
+  font-size: 36px;
+  font-weight: bolder;
+  color: rgb(4, 1, 1);
+}
+.bullet-content {
+  position: absolute;
+  top: 15%;
+  width: 75%;
+  height: 75%;
+  border: 1px solid black;
+}
+.bullet-icon-bar {
+  padding-top: 10%;
+  height: 100%;
+  width: 4%;
+  background: #1f2235;
+}
+.bullet-icon {
+  margin-bottom: 75%;
+  width: 100%;
+  height: 10%;
+}
+.icon1 {
+  background: url(/src/assets/Resume/student.png);
+  background-size: 100% 100%;
+}
+.icon2 {
+    background: url(/src/assets/Resume/history.png);
+    background-size: 100% 100%;
+  }
+  .icon3 {
+    background: url(/src/assets/Resume/programing.png);
+    background-size: 100% 100%;
+  }
+  .icon4 {
+    background: url(/src/assets/Resume/paint-palette.png);
+    background-size: 100% 100%;
+  }
+  .icon-list{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 30%;
+    border: 1px solid red;
+    left: 4%;
+    padding-top: 10%;
+  }
+  .list1{
+    width: 80%;
+   height: 10%;
+   margin-bottom:10%;
+  
+  }
+  .list1 span{
+    margin-left: 10%;
+  }
+  .list2{
+    width: 80%;
+   height: 10%;
+   margin-bottom:10%;
+  }
+  .list2 span{
+    margin-left: 10%;
+  }
+  .list3{
+    width: 80%;
+   height: 10%;
+   margin-bottom:10%;
+  }
+  .list3 span{
+    margin-left: 10%;
+  }
+  .list4{
+    width: 80%;
+   height: 10%;
+   margin-bottom:10%;
+  }
+  .list4 span{
+    margin-left: 10%;
+  }
