@@ -41,7 +41,7 @@ export default function () {
                   loop={Infinity}
                   steps={[
                     "Pathum Kaleesha",
-                    2000,"Full Stack Developer..,",
+                    5000,"Full Stack Developer..,",
                     5000,"Mobile App Developer..,",
                     5000,"React/React Native ",
                     
