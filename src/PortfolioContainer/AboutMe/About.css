@@ -1,0 +1,88 @@
+.about-container {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    background: white;
+    top: 110%;
+}
+
+.fade-container {
+    justify-content: center;
+}
+
+.about-title {
+    justify-content: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: rgb(4, 1, 1);
+}
+
+.about-parent {
+    position: absolute;
+    top: 15%;
+    width: 75%;
+    height: 75%;
+    box-shadow: 1px 10px 50px 1px #888888;
+}
+
+.image-div {
+    width: 40%;
+    height: 100%;
+    background: url('/src//assets/Home/about-img2.jpeg');
+    background-size: 100% 100%;
+}
+
+.about-details {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 60%;
+    height: 100%;
+    background: white;
+}
+.about-content{
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+   
+}
+.about-description{
+     font-family: cursive;
+    font-size: 16px;
+    font-weight: lighter;
+}
+.about-highlightes{
+    position: absolute;
+    width: 90%;
+    height: 60%;
+    top: 35%;
+   
+
+}
+.highlightes-title{
+    font-weight: bolder;
+    margin-bottom: 5%;
+}
+.highlights{
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+    margin-top: 3%;
+    font-size: 12px;
+}
+.highlight-blob{
+    height: 12px;
+    width: 12px;
+    margin: 0 10px 0 0;
+    background: #ff5823;
+    border-radius: 50%;
+}
+.profile-options{
+    
+    margin-top: 5%;
+    margin-left: 15%;
+    
+}
