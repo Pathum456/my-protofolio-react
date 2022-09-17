@@ -51,7 +51,7 @@
 }
 .about-description {
   font-family: cursive;
-  font-size: 16px;
+  font-size: 19px;
   font-weight: lighter;
 }
 .about-highlightes {
@@ -82,7 +82,7 @@
   margin-top: 5%;
   margin-left: 20%;
 }
-@media screen and (max-width: 2560px) {
+/*@media screen and (max-width: 2560px) {
     .about-container {
       top: 80%;
     }
@@ -144,6 +144,7 @@
      
     }
   }
+*/
 
 @media screen and (max-width: 1024px) {
   .about-container {
@@ -154,17 +155,18 @@
     height: 100%;
   }
   .about-description{
-    font-size: 24px;
+    font-size: 23px;
   }
+  
   .about-highlightes {
-    top: 55%;
+    top: 45%;
   }
   .about-parent {
     top: 10%;
     height: 65%;
   }
   .profile-options {
-    margin-top: 10%;
+    margin-top: 7%;
    
   }
 }
@@ -206,7 +208,7 @@
     height: 50%;
   }
   .about-description{
-    font-size: 15px;
+    font-size: 14.5px;
   }
   .about-details {
     left: 0;
@@ -235,7 +237,7 @@
     height: 50%;
   }
   .about-description{
-    font-size: 14px;
+    font-size: 12.3px;
   }
   .about-details {
     left: 0;
