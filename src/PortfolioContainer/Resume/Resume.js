@@ -17,18 +17,21 @@ export default function Resume() {
                 <div className="bullet-icon icon4"></div>
             </div>
             <div className="icon-list">
-                <div className="list1" >
+                <div className="list1"  >
                     <span>Education</span>
                 </div>
                 <div className="list2">
-                    <span>Education</span>
+                    <span>Work History</span>
                 </div>
                 <div className="list3">
-                    <span>Education</span>
+                    <span>Programming Skills</span>
                 </div>
                 <div className="list4">
-                    <span>Education</span>
+                    <span>Interests</span>
                 </div>
+            </div>
+            <div className="bullet-describe">
+              <div className="descibe"></div>
             </div>
         </div>
       </Fade>
